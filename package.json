@@ -9,6 +9,10 @@
   "description": "",
   "devDependencies": {
     "@playwright/test": "^1.52.0",
+    "@sentry/cli": "^2.43.1",
     "@types/node": "^22.15.3"
+  },
+  "dependencies": {
+    "@sentry/browser": "^9.15.0"
   }
 }
